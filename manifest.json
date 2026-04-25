@@ -1,6 +1,6 @@
 {
-    "name": "pure_sudoku_2",
-    "short_name": "pure_sudoku_2",
+    "name": "Only Sudoku",
+    "short_name": "Only Sudoku",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
