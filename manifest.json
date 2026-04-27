@@ -1,6 +1,6 @@
 {
-    "name": "Only Sudoku",
-    "short_name": "Only Sudoku",
+    "name": "one_line_block",
+    "short_name": "one_line_block",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
